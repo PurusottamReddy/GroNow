@@ -104,9 +104,3 @@ node index.js   # or nodemon index.js
 **T. Purusottam Reddy**
 [GitHub](https://github.com/purusottamreddy)
 
-```
-
----
-
-Would you like me to add a **“Live Demo” section with badges** (e.g. “View Demo”, “Frontend Repo”, “Backend Repo”) to make it look more like a polished GitHub project?
-```
