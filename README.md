@@ -32,9 +32,9 @@ Built with **React + Vite** on the frontend and **Node.js/Express** on the backe
 | Layer | Technology Used |
 |--------|-----------------|
 | **Frontend** | React + Vite + Tailwind CSS |
-| **State Mgmt** | React Hooks / Context API |
+| **State Mgmt** | Context API |
 | **Backend** | Node.js + Express.js |
-| **Database** | MongoDB (or any preferred DB) |
+| **Database** | MongoDB |
 | **Version Ctrl** | Git & GitHub |
 
 ---
