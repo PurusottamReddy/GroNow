@@ -54,7 +54,6 @@ const Cart = () => {
 
   if(!user) {
       toast.error("Please login to place order");
-      setShowUserLogin(true);
       return;
     }
     
