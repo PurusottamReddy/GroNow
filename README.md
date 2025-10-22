@@ -32,9 +32,9 @@ Built with **React + Vite** on the frontend and **Node.js/Express** on the backe
 | Layer | Technology Used |
 |--------|-----------------|
 | **Frontend** | React + Vite + Tailwind CSS |
-| **State Mgmt** | React Hooks / Context API |
+| **State Mgmt** | Context API |
 | **Backend** | Node.js + Express.js |
-| **Database** | MongoDB (or any preferred DB) |
+| **Database** | MongoDB |
 | **Version Ctrl** | Git & GitHub |
 
 ---
@@ -104,9 +104,3 @@ node index.js   # or nodemon index.js
 **T. Purusottam Reddy**
 [GitHub](https://github.com/purusottamreddy)
 
-```
-
----
-
-Would you like me to add a **“Live Demo” section with badges** (e.g. “View Demo”, “Frontend Repo”, “Backend Repo”) to make it look more like a polished GitHub project?
-```
