@@ -59,7 +59,7 @@ Follow these steps to set up and run GroNow locally.
 * npm (or yarn)
 * A MongoDB Atlas database URI.
 * Stripe API Keys, Cloudinary credentials.
-
+```bash
 ### Step 1: Clone the Repository
 git clone [https://github.com/purusottamreddy/gronow.git](https://github.com/purusottamreddy/gronow.git)
 cd gronow
@@ -78,7 +78,7 @@ npm install
 npm run dev
 
 The frontend will start on port 5173 (or your configured port) and should automatically open in your browser.
-```bash
+
 📁 Project Structure
 gronow/
 │
