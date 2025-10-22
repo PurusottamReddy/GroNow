@@ -59,7 +59,7 @@ function MainBanner() {
     const distanceFromBottom = bannerRect.bottom - clickY;
 
     if (distanceFromBottom <= 50) {
-      navigate('/all-products');
+      navigate('/products');
     }
   };
 
