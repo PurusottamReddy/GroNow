@@ -22,7 +22,7 @@ const ProductCategory = () => {
         </div>
       )}
       {filteredProducts.length > 0 ? (
-        <div className='grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-4 gap-3 md:gap-6 mt-6'>
+        <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 md:gap-6 mt-6'>
             {filteredProducts.map((product, index)=>(
                 <ProductCard key={product._id} product={product} index={index}/>
             ))}
