@@ -42,7 +42,7 @@ GroNow utilizes a modern, robust technology stack for both client-side and serve
 * **Responsive UI:** Intuitive, user-friendly, and responsive interface for effortless browsing and navigation on any device.
 * **Secure Access:** Robust **User & Seller Authentication and Authorization** modules.
 * **Product Catalog:** Comprehensive product display with high-quality images and detailed descriptions.
-* **🧺 Smart Shopping Cart:** Real-time functionality to **add, update, or remove items** instantly.
+* **Smart Shopping Cart:** Real-time functionality to **add, update, or remove items** instantly.
 * **Payment Options:** Smooth checkout supporting both **Cash on Delivery (COD)** and **Online Payments (Stripe API)**.
 * **Seller Management:** Dedicated interface for **Product Listing and Management** to handle inventory.
 * **Delivery Setup:** **User Address Management** for seamless and accurate delivery logistics.
