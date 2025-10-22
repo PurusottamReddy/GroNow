@@ -7,7 +7,7 @@
 | Deployment | Frontend (Vercel) | Backend (Render) |
 | :--- | :--- | :--- |
 | **Live URL** | [https://gro-now.vercel.app](https://gro-now.vercel.app) | [https://gronow.render.com](https://gronow.render.com) |
-| **GitHub Repo** | [Client Code in `/client`](https://github.com/PurusottamReddy/GroNow/tree/main/frontend) | [Server Code in `/server`](https://github.com/PurusottamReddy/GroNow/tree/main/backend) |
+| **GitHub Repo** | [Client Code in `/frontend`](https://github.com/PurusottamReddy/GroNow/tree/main/frontend) | [Server Code in `/backend`](https://github.com/PurusottamReddy/GroNow/tree/main/backend) |
 
 ---
 
@@ -70,7 +70,7 @@ Create a .env file in the root of the /server directory and add the necessary co
 Step 3: Setup Backend (Server)
 cd backend
 npm install
-npm start   # Runs 'node index.js' or use 'nodemon index.js' for development
+npm start   # Runs 'node server.js' or use 'nodemon server.js' for development
 
 The server will start on port 4000 (or your configured port).
 Step 4: Setup Frontend (Client)
