@@ -55,7 +55,7 @@ const Navbar = () => {
         <div className="hidden lg:flex items-center text-sm gap-2 border border-gray-300 px-3 rounded-full">
           <input
             type="text"
-            placeholder="Search products"
+            placeholder="Search groceries"
             className="py-1.5 w-full bg-transparent outline-none placeholder-gray-500"
             onChange={(e) => setSearchQuery(e.target.value)}
           />
