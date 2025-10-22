@@ -7,7 +7,7 @@
 | Deployment | Frontend (Vercel) | Backend (Render) |
 | :--- | :--- | :--- |
 | **Live URL** | [https://gro-now.vercel.app](https://gro-now.vercel.app) | [https://gronow.render.com](https://gronow.render.com) |
-| **GitHub Repo** | [Client Code in `/client`](https://github.com/PurusottamReddy/GroNow/tree/main/client) | [Server Code in `/server`](https://github.com/PurusottamReddy/GroNow/tree/main/server) |
+| **GitHub Repo** | [Client Code in `/client`](https://github.com/PurusottamReddy/GroNow/tree/main/frontend) | [Server Code in `/server`](https://github.com/PurusottamReddy/GroNow/tree/main/backend) |
 
 ---
 
@@ -66,34 +66,20 @@ cd gronow
 
 Step 2: Configure Environment Variables
 Create a .env file in the root of the /server directory and add the necessary configuration (e.g., MONGO_URI, JWT_SECRET, STRIPE_SECRET_KEY, CLOUDINARY credentials).
+
 Step 3: Setup Backend (Server)
-cd server
+cd backend
 npm install
 npm start   # Runs 'node index.js' or use 'nodemon index.js' for development
 
-The server will start on port 5000 (or your configured port).
+The server will start on port 4000 (or your configured port).
 Step 4: Setup Frontend (Client)
-cd ../client
+cd ../frontend
 npm install
 npm run dev
 
 The frontend will start on port 5173 (or your configured port) and should automatically open in your browser.
 
-📁 Project Structure
-gronow/
-│
-├── client/          # React frontend (Vite)
-│   ├── src/
-│   └── package.json
-│
-├── server/          # Node.js/Express backend
-│   ├── routes/
-│   ├── models/
-│   ├── controllers/
-│   └── package.json
-│
-└── README.md
-```
 
 🧠 Learning Outcomes
 This project served as a powerful learning experience, strengthening core full-stack development skills:
@@ -102,7 +88,7 @@ This project served as a powerful learning experience, strengthening core full-s
  * Secure Integrations: Successful integration of the Stripe Payment Gateway for transactional security and Cloudinary for scalable media management.
  * Deployment Workflow: Gaining hands-on experience with the full-stack deployment cycle using Vercel (Frontend) and Render (Backend).
 
-🧑‍💻 Author
+✍🏻 Author
 T. Purusottam Reddy
 I welcome any feedback or suggestions! Feel free to connect or explore my other projects.
 <!-- end list -->
