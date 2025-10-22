@@ -80,6 +80,7 @@ npm run dev
 
 The frontend will start on port 5173 (or your configured port) and should automatically open in your browser.
 
+```
 
 🧠 Learning Outcomes
 This project served as a powerful learning experience, strengthening core full-stack development skills:
