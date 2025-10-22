@@ -19,7 +19,7 @@ await connectDB()
 await connectCloudinary()
 
 // Allow multiple origins
-const allowedOrigins = ['http://localhost:5173', 'http://localhost:5000', 'http://localhost:5001']
+const allowedOrigins = ['http://localhost:5173', 'http://localhost:5000', 'http://localhost:5001',"https://gro-now.vercel.app/"]
 
 // Stripe webhook route removed
 
