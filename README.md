@@ -6,7 +6,7 @@
 
 | Deployment | Frontend (Vercel) | Backend (Render) |
 | :--- | :--- | :--- |
-| **Live URL** | [https://gro-now.vercel.app](https://gro-now.vercel.app) | [https://gronow.render.com](https://gronow.render.com) |
+| **Live URL** | [https://gro-now.vercel.app](https://gro-now.vercel.app) | [https://gronow.onrender.com](https://gronow.onrender.com) |
 | **GitHub Repo** | [Client Code in `/frontend`](https://github.com/PurusottamReddy/GroNow/tree/main/frontend) | [Server Code in `/backend`](https://github.com/PurusottamReddy/GroNow/tree/main/backend) |
 
 ---
