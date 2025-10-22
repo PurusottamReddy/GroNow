@@ -1,3 +1,5 @@
+import appdwndImage from '../assets/appdwnd.png';
+
 export default function AppDwnd() {
     return (
         <div className="flex flex-col md:flex-row items-center justify-around text-sm shadow-md rounded-md mt-10 max-w-5xl w-full bg-gray-100">
@@ -21,7 +23,7 @@ export default function AppDwnd() {
             </div>
         
             <img className="max-w-[375px] pt-10 md:p-0"
-                src="\src\assets\appdwnd.png"
+                src={appdwndImage}
                 alt="excitedDeliveryPartnerImage" />
         </div>
     );
