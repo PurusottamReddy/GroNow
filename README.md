@@ -91,5 +91,6 @@ This project served as a powerful learning experience, strengthening core full-s
 
 ✍🏻 Author
 T. Purusottam Reddy
-I welcome any feedback or suggestions! Feel free to connect or explore my other projects.
+
+-> I welcome any feedback or suggestions! Feel free to connect or explore my other projects.
 <!-- end list -->
