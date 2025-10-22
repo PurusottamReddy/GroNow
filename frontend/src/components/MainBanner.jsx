@@ -72,7 +72,7 @@ function MainBanner() {
 
   return (
     <div
-      className='max-w-[500px] h-[150px] sm:max-w-[1000px] sm:h-[250px] md:max-w-[1800px] md:h-[400px] w-full mx-auto pt-0 pb-0 px-0 relative group'
+      className='max-w-[500px] h-[150px] sm:max-w-[1000px] sm:h-[250px] md:max-w-[1800px] md:h-[500px] w-full mx-auto pt-0 pb-0 px-0 relative group'
       onClick={handleClick}
     >
       <div
