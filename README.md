@@ -61,7 +61,6 @@ Follow these steps to set up and run GroNow locally.
 * Stripe API Keys, Cloudinary credentials.
 
 ### Step 1: Clone the Repository
-```bash
 git clone [https://github.com/purusottamreddy/gronow.git](https://github.com/purusottamreddy/gronow.git)
 cd gronow
 
@@ -79,6 +78,7 @@ npm install
 npm run dev
 
 The frontend will start on port 5173 (or your configured port) and should automatically open in your browser.
+```bash
 📁 Project Structure
 gronow/
 │
@@ -93,6 +93,7 @@ gronow/
 │   └── package.json
 │
 └── README.md
+```
 
 🧠 Learning Outcomes
 This project served as a powerful learning experience, strengthening core full-stack development skills:
@@ -100,11 +101,7 @@ This project served as a powerful learning experience, strengthening core full-s
  * RESTful API Design: Implementing a clean, secure, and well-structured API.
  * Secure Integrations: Successful integration of the Stripe Payment Gateway for transactional security and Cloudinary for scalable media management.
  * Deployment Workflow: Gaining hands-on experience with the full-stack deployment cycle using Vercel (Frontend) and Render (Backend).
-🚀 Future Enhancements
- * Order Tracking: Implement real-time order tracking for users.
- * User Profiles: Add a comprehensive user profile and order history dashboard.
- * Admin Panel: Develop a dedicated, robust admin dashboard for seller/platform management.
- * Search/Filtering: Advanced search and filtering capabilities.
+
 🧑‍💻 Author
 T. Purusottam Reddy
 I welcome any feedback or suggestions! Feel free to connect or explore my other projects.
