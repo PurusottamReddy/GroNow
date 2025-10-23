@@ -24,7 +24,7 @@ GroNow utilizes a modern, robust technology stack for both client-side and serve
 * **Runtime:** Node.js
 * **Framework:** Express.js
 * **Database:** MongoDB Atlas (NoSQL)
-* **Deployment:** **Render** (`https://gronow.render.com`)
+* **Deployment:** **Render** (`https://gronow.onrender.com`)
 
 ### Key Integrations
 | Service | Purpose |
